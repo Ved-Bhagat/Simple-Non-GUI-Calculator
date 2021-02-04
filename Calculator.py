@@ -1,5 +1,4 @@
 from time import sleep
-import pyautogui
 while True:
      def add():
           a = int(input("Enter The First Number: "))
